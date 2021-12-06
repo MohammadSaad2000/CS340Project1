@@ -11,6 +11,7 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+.idea
 
 # Package Files #
 *.jar
@@ -26,5 +27,4 @@ hs_err_pid*
 
 *.iml
 *.xml
-.idea
 
